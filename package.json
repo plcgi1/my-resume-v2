@@ -20,7 +20,8 @@
     "build": "react-app-rewired build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build && node scripts/replace-public-url.js",
+    "predeploy": "npm run build",
+    "replace": "node scripts/replace-public-url.js",
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
