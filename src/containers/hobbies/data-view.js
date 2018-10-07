@@ -6,7 +6,7 @@ class HobbiesDataView extends React.Component {
     
     const getTitle = ((props) => {
       if (props.url)
-        return <a href={props.url} target="_blank">
+        return <a href={props.url} target="_blank" rel="noopener noreferrer">
           <img src={props.image} alt={props.description}/>
           {props.description}
         </a>

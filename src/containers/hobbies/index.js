@@ -44,14 +44,14 @@ class Hobbies extends React.Component {
   
   getTitle(item) {
     if(item.url)
-      return <a target="_href" href={item.url}>{item.title}</a>
+      return <a target="_blank" rel="noopener noreferrer" href={item.url}>{item.title}</a>
     
     return item.title;
   }
     
     render() {
         const {data, tobecontinue} = this.state;
-  
+       
         if(data.length === 0) return <MySpin/>;
         
         return <CSSTransitionGroup
@@ -69,8 +69,7 @@ class Hobbies extends React.Component {
                     date=""
                     key={i}
                     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                    icon={this.getIcon(row)}
-                >
+                    icon={this.getIcon(row)}>
                     <h3 className="vertical-timeline-element-title">{ this. getTitle(row) }</h3>
                   <HobbiesDataView data={row.tasks}/>
                   <div className="vertical-timeline-element-subtitle">{tobecontinue}</div>

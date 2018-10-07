@@ -8,10 +8,6 @@ import LangSelector from '../lang-selector';
 class MyAffix extends Component {
   render() {
     const {lang, onToggle, pathname} = this.props;
-    console.info('this', this.props)
-    const getClassName = (selected) => {
-      return selected === lang ? 'selected' : '';
-    };
     
     return (<Affix>
         <LangSelector lang={lang} onToggle={onToggle}/>

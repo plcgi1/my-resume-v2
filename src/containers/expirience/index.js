@@ -10,7 +10,6 @@ import 'react-vertical-timeline-component/style.min.css';
 import {FaCheck} from 'react-icons/fa';
 import {FaGraduationCap} from 'react-icons/fa';
 import {refresh} from "../../utils";
-import CloseMe from '../../components/close-me';
 
 class Expirience extends React.Component {
     state = { data: [], label: '', fetching: false };
@@ -72,7 +71,7 @@ class Expirience extends React.Component {
     
     getTitle(item) {
         if(item.url)
-            return <a href={item.url}>{item.company}</a>
+            return <a target="_blank" rel="noopener noreferrer" href={item.url}>{item.company}</a>
         
         return item.company;
     }

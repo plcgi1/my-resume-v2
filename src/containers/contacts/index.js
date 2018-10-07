@@ -50,7 +50,7 @@ class Contacts extends React.Component {
   
   getValue(item) {
         if(item.url)
-            return <a href={item.url} target="_blank">{item.value}</a>
+            return <a target="_blank" rel="noopener noreferrer" href={item.url} target="_blank">{item.value}</a>
         
         return item.value;
     }
