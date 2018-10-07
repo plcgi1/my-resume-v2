@@ -1,0 +1,20 @@
+[
+  {
+    "id": "expirience",
+    "title": "Опыт",
+    "path": "/expirience",
+    "data_url": "/data/expirience.json"
+  },
+  {
+    "id": "hobbies",
+    "title": "Увлечения",
+    "path": "/hobbies",
+    "data_url": "/data/hobbies.json"
+  },
+  {
+    "id": "contacts",
+    "title": "Контакты",
+    "path": "/contacts",
+    "data_url": "/data/contacts.json"
+  }
+]

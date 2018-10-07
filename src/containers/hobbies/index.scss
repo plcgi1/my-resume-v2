@@ -1,0 +1,31 @@
+@import '../styles/mixins.scss';
+
+@include rootTransition;
+
+.hobbies {
+    background: url(/images/background/hobbies.png) no-repeat center center fixed !important;
+    margin-top: -105px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+
+    .hobby-list {
+        margin: 0px;
+        ul {
+            list-style-type: none;
+        }
+        h3 {
+            font: bold 16px/1.5 Helvetica, Verdana, sans-serif;
+        }
+        li {
+            padding: 10px;
+            a {
+                text-decoration: none;
+            }
+            img {
+                float: left;
+                width: 20%;
+                margin: 0 10px 0 0;
+            }
+        }
+    }
+}

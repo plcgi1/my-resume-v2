@@ -1,0 +1,23 @@
+@import '../../containers/styles/mixins.scss';
+
+.lang-selector {
+  @include easeOut;
+
+  display: flex;
+  margin: 9px;
+  
+  .selected {
+    @include riple;
+    height: 33px;
+    width: 33px;
+    border-radius: 50%;
+    background: #eae6ff;
+  }
+  span {
+    cursor: pointer;
+    padding: 10px;
+    //img {
+    //  margin-top: 10px;
+    //}
+  }
+}

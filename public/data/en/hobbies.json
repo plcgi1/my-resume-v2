@@ -1,0 +1,77 @@
+{
+  "tobecontinue": "To be continued...",
+  "data": [
+    {
+      "id": "woodcarv",
+      "title": "Wood carving",
+      "tasks": [
+        {
+          "url": "https://www.pinterest.com/alexandrnosoff/my-pieces-of-wood/",
+          "image": "https://i.pinimg.com/564x/a8/8a/90/a88a90ec6394f826c537d0f8c9c2fc0c.jpg",
+          "description": "My pieces of wood"
+        }
+      ]
+    },
+    {
+      "id": "water",
+      "title": "River rafting",
+      "tasks": [
+        {
+          "url": "http://magadan.by/tours/rafting/vesennij-splav-po",
+          "image": "http://magadan.by/images/easyblog_articles/2089/b2ap3_large_47934_800.jpg",
+          "description": "Spring rivrafting.Bashkartostan 2018. Zilim. Malii Inzer. Lemeza"
+        },
+        {
+          "url": "http://magadan.by/tours/rafting/79-bashkiriya-2018-20-04-2018-08-5-2018",
+          "image": "http://magadan.by/images/easyblog_articles/2058/b2ap3_large_DSCN3263.JPG",
+          "description": "South Ural.Cold rainbows (20.04.2018-08.5.2018)"
+        },
+        {
+          "url": "http://magadan.by/tours/rafting/78-10-15-04-2018-serezha",
+          "image": "http://magadan.by/images/easyblog_articles/2050/b2ap3_large_IMG_8482.JPG",
+          "description": "78: 10-15.04.2018 'Serezha' river"
+        },
+        {
+          "url": "http://magadan.by/tours/rafting/pokhod-79a-o-bol",
+          "image": "http://magadan.by/images/easyblog_articles/2065/b2ap3_large_ShumilinaRaion-ObalRiver.JPG",
+          "description": "Rivrafting 79А. O!Pain!"
+        },
+        {
+          "url": "http://magadan.by/tours/rafting/o-bol-79a-08-10-iyunya-2018-1",
+          "image": "http://magadan.by/images/easyblog_articles/2070/b2ap3_large_DSCF013_20180628-002650_1.JPG",
+          "description": "Oh, pain! 79А 08-10 june 2018"
+        },
+        {
+          "url": "http://magadan.by/tours/rafting/o-bol79v-chast-2-prodolzhenie-88-km-21-22-7-2018",
+          "image": "http://magadan.by/images/easyblog_articles/2078/b2ap3_large_b2ap3_thumbnail_DSCN7651-1.jpg",
+          "description": "«Oh, Pain 79В. Part 2» 88 km 21-22.7.2018"
+        }
+      ]
+    },
+    {
+      "id": "alp",
+      "title": "Mountain climbing, traviling, hiking",
+      "tasks": [
+        {
+          "url": "https://www.facebook.com/plcgi1/media_set?set=a.10211833373019843&type=3",
+          "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-0/p235x350/16195388_10211833385340151_1190459266914673144_n.jpg?_nc_cat=106&oh=21dbd8d0faced36e6a541da446f4c986&oe=5C1894FC",
+          "description": "january 2018. Malpupuner"
+        },
+        {
+          "url": "https://www.facebook.com/plcgi1/media_set?set=a.1529729413265&type=3",
+          "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/s960x960/171605_1821372064149_7169130_o.jpg?_nc_cat=110&oh=9be306026832815c5a89a61304e4cafb&oe=5C4C1231",
+          "description": "january 2010. Tsey"
+        }
+      ]
+    },
+    {
+      "id": "photo",
+      "title": "Photography"
+    },
+    {
+      "id": "youtube",
+      "title": "Videography",
+      "url": "https://www.youtube.com/user/plcgi1/videos?shelf_id=0&view=0&sort=dd"
+    }
+  ]
+}

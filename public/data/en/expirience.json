@@ -1,0 +1,663 @@
+{
+  "technologies": "Technologies",
+  "data": [
+    {
+      "start_date": "2018",
+      "end_date": "...now",
+      "title": "Omertex",
+      "company": "Omertex",
+      "role": "Backend nodejs developer",
+      "tasks": [
+        {
+          "title": "Development, improvement, support for telemedical system",
+          "url": "https://app.dr-julian.com"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/postgresql.png",
+          "title": "PostgreSQL"
+        },
+        {
+          "image": "/images/technologies/bitbucket.png",
+          "title": "BitBucket"
+        },
+        {
+          "image": "/images/technologies/nodejs.png",
+          "title": "NodeJS"
+        },
+        {
+          "image": "/images/technologies/twilio.png",
+          "title": "Twilio"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        },
+        {
+          "image": "/images/technologies/stripe.png",
+          "title": "Stripe"
+        },
+        {
+          "image": "/images/technologies/bamboo.png",
+          "title": "Bamboo"
+        },
+        {
+          "image": "/images/technologies/octopus.png",
+          "title": "Octopus"
+        }
+      ]
+    },
+    {
+      "start_date": "2016",
+      "end_date": "2018",
+      "title": "Impa",
+      "company": "Impa",
+      "role": "Full stack web developer, architect, project manager",
+      "tasks": [
+        {
+          "title": "Development, improvement, support for enterprise site promotion system"
+        },
+        {
+          "title": "Office browser phone"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/angular.png",
+          "title": "AngularJS"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/mongodb.png",
+          "title": "MongoDB"
+        },
+        {
+          "image": "/images/technologies/redis.png",
+          "title": "Redis"
+        },
+        {
+          "image": "/images/technologies/bitbucket.png",
+          "title": "BitBucket"
+        },
+        {
+          "image": "/images/technologies/nodejs.png",
+          "title": "NodeJS"
+        },
+        {
+          "image": "/images/technologies/perl.png",
+          "title": "Perl"
+        },
+        {
+          "image": "/images/technologies/twilio.png",
+          "title": "Twilio"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        },
+        {
+          "image": "/images/technologies/docker.png",
+          "title": "Docker"
+        },
+        {
+          "image": "/images/technologies/nightmarejs.png",
+          "title": "Nightmarejs"
+        }
+      ]
+    },
+    {
+      "start_date": "2015",
+      "end_date": "2016",
+      "title": "Moreboats.com",
+      "company": "Ambimark, Inc.",
+      "role": "Full stack web developer",
+      "tasks": [
+        {
+          "title": "Statistic tracking system"
+        },
+        {
+          "title": "Site crawling"
+        },
+        {
+          "title": "Integration with algolia"
+        },
+        {
+          "title": "Support and improvement",
+          "url": "https://www.moreboats.com"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/jquery.png",
+          "title": "JQUERY"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/mongodb.png",
+          "title": "MongoDB"
+        },
+        {
+          "image": "/images/technologies/redis.png",
+          "title": "Redis"
+        },
+        {
+          "image": "/images/technologies/git.png",
+          "title": "GitHUB"
+        },
+        {
+          "image": "/images/technologies/nodejs.png",
+          "title": "NodeJS"
+        },
+        {
+          "image": "/images/technologies/amazonwc.png",
+          "title": "Amazon WC"
+        },
+        {
+          "image": "/images/technologies/algolia.png",
+          "title": "Algolia search"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        }
+      ]
+    },
+    {
+      "start_date": "2014",
+      "end_date": "2015",
+      "title": "Gekos",
+      "company": "Gekos",
+      "role": "Full stack web developer, architect",
+      "tasks": [
+        {
+          "title": "Startup UsabilityProvider - architect, teamlead, development"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/bash.png",
+          "title": "Bash"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/perl.png",
+          "title": "Perl"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/jquery.png",
+          "title": "JQUERY"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/mysql.png",
+          "title": "MySQL"
+        },
+        {
+          "image": "/images/technologies/redis.png",
+          "title": "Redis"
+        },
+        {
+          "image": "/images/technologies/angular.png",
+          "title": "AngularJS"
+        },
+        {
+          "image": "/images/technologies/nodejs.png",
+          "title": "NodeJS"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        }
+      ]
+    },
+    {
+      "start_date": "2013",
+      "end_date": "2014",
+      "title": "Seed formation",
+      "company": "Seed formation",
+      "role": "Full stack web developer",
+      "tasks": [
+        {
+          "title": "bolshoyvopros.ru. Development, improvement, quality assurance",
+          "url": "http://bolshoivopros.ru"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/perl.png",
+          "title": "Perl"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/jquery.png",
+          "title": "JQUERY"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/mysql.png",
+          "title": "MySQL"
+        },
+        {
+          "image": "/images/technologies/ajax.png",
+          "title": "Ajax"
+        },
+        {
+          "image": "/images/technologies/git.png",
+          "title": "GIT"
+        },
+        {
+          "image": "/images/technologies/bash.png",
+          "title": "Bash"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        }
+      ]
+    },
+    {
+      "start_date": "2012",
+      "end_date": "2013",
+      "title": "maillist.ru(emailing)",
+      "company": "maillist.ru",
+      "role": "Full stack developer",
+      "tasks": [
+        {
+          "title": "Development, improvement, support maillist.ru"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/perl.png",
+          "title": "Perl"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/jquery.png",
+          "title": "JQUERY"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/mysql.png",
+          "title": "MySQL"
+        },
+        {
+          "image": "/images/technologies/ajax.png",
+          "title": "Ajax"
+        },
+        {
+          "image": "/images/technologies/nginx.png",
+          "title": "Nginx"
+        },
+        {
+          "image": "/images/technologies/git.png",
+          "title": "GIT"
+        },
+        {
+          "image": "/images/technologies/bash.png",
+          "title": "Bash"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        }
+      ]
+    },
+    {
+      "start_date": "2007",
+      "end_date": "2012",
+      "title": "Agavamin",
+      "company": "Agavamin",
+      "role": "Team lead, full stack web developer",
+      "tasks": [
+        {
+          "title": "Free hosting support system.Architect, team lead, full stack web development"
+        },
+        {
+          "title": "GeoIP service.Full stack web developer"
+        },
+        {
+          "title": "Crossdomain Auth provider.Backend web developer"
+        },
+        {
+          "title": "Openid provider. Team lead"
+        },
+        {
+          "title": "Process management ( jira,cwiki )"
+        },
+        {
+          "title": "Bannerclick exchange.Full stack web developer"
+        },
+        {
+          "title": "Work time report system.Full stack web developer"
+        },
+        {
+          "title": "Testsbox.ru. Team lead"
+        },
+        {
+          "title": "Maillist.ru. Team lead"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/freebsd.png",
+          "title": "FreeBSD"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/atom.png",
+          "title": "ATOM"
+        },
+        {
+          "image": "/images/technologies/perl.png",
+          "title": "Perl"
+        },
+        {
+          "image": "/images/technologies/catalyst.png",
+          "title": "Catalyst"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/jquery.png",
+          "title": "JQUERY"
+        },
+        {
+          "image": "/images/technologies/yui.png",
+          "title": "YUI"
+        },
+        {
+          "image": "/images/technologies/backbone.png",
+          "title": "Backbone"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/mysql.png",
+          "title": "MySQL"
+        },
+        {
+          "image": "/images/technologies/openid.png",
+          "title": "OpenID"
+        },
+        {
+          "image": "/images/technologies/soap.png",
+          "title": "SOAP"
+        },
+        {
+          "image": "/images/technologies/ajax.png",
+          "title": "Ajax"
+        },
+        {
+          "image": "/images/technologies/apache.png",
+          "title": "Apache"
+        },
+        {
+          "image": "/images/technologies/nginx.png",
+          "title": "Nginx"
+        },
+        {
+          "image": "/images/technologies/bash.png",
+          "title": "Bash"
+        },
+        {
+          "image": "/images/technologies/jira.png",
+          "title": "Jira"
+        },
+        {
+          "image": "/images/technologies/svn.png",
+          "title": "SVN"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        }
+      ]
+    },
+    {
+      "start_date": "2005",
+      "end_date": "2007",
+      "title": "Smart Systems",
+      "company": "Smart Systems",
+      "role": "Full stack web developer",
+      "tasks": [
+        {
+          "title": "Billing system. Full stack"
+        },
+        {
+          "title": "Antifraud system. Backend developer"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/perl.png",
+          "title": "Perl"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/postgresql.png",
+          "title": "PostgreSQL"
+        },
+        {
+          "image": "/images/technologies/eclipse.png",
+          "title": "Eclipse"
+        },
+        {
+          "image": "/images/technologies/selenium.png",
+          "title": "Selenium"
+        },
+        {
+          "image": "/images/technologies/ajax.png",
+          "title": "Ajax"
+        },
+        {
+          "image": "/images/technologies/apache.png",
+          "title": "Apache"
+        }
+      ]
+    },
+    {
+      "start_date": "2003",
+      "end_date": "2005",
+      "company": "Management and business institute",
+      "role": "Technical specialist",
+      "tasks": [
+        {
+          "title": "Technical support for internet classroom"
+        },
+        {
+          "title": "Time management system"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/freebsd.png",
+          "title": "FreeBSD"
+        },
+        {
+          "image": "/images/technologies/perl.png",
+          "title": "Perl"
+        },
+        {
+          "image": "/images/technologies/js.png",
+          "title": "Javascript"
+        },
+        {
+          "image": "/images/technologies/html.png",
+          "title": "HTML"
+        },
+        {
+          "image": "/images/technologies/css.png",
+          "title": "CSS"
+        },
+        {
+          "image": "/images/technologies/mysql.png",
+          "title": "MySQL"
+        }
+      ]
+    }
+  ]
+}

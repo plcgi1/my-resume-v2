@@ -1,0 +1,4 @@
+.not-found {
+    background: #c7b39b url(/images/notfound.jpg) center no-repeat; /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+}

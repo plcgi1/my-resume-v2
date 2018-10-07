@@ -1,0 +1,54 @@
+@import '../styles/mixins.scss';
+
+@include rootTransition;
+
+.root {
+  .grid {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    left: 40%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+
+    .grid-item {
+      text-align: center;
+      font-size: 14vh;
+      top: 60%;
+      left: 80%;
+      flex: 1;
+    }
+    .nav {
+      margin: 0;
+      top: 30%;
+      font-size: 14vh;
+      z-index: 2;
+      width: 50%;
+      cursor: pointer;
+      a {
+        transform: translate3d(0, 100%, 0);
+        color: white;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.my-avatar {
+  margin: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  position: relative;
+  margin-top: 2%;
+  img {
+     margin: auto;
+     width: 15%;
+     height: 15%;
+     left: 10%;
+     line-height: 40px;
+     border-radius: 50%;
+  }
+}
+
+
