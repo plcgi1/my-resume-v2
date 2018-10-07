@@ -1,0 +1,20 @@
+{
+  "data": [
+  {
+    "start_date": "1986",
+    "end_date": "1990",
+    "type": "education",
+    "company": "Novorosiisk College of Radio Electronic Instrumentation",
+    "role": "Padiotechnician",
+    "url": "http://www.novkrp.ru/",
+    "image": "http://www.novkrp.ru/images/nkrpphoto/gallerymain//gallerymain2.jpg",
+    "tasks": [
+      {
+        "title": "Education: secondary technical"
+      },
+      {
+        "title": "Form of training: full"
+      }
+    ]
+  }]
+}

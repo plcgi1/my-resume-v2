@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "title": "Дата рождения",
+      "value": "17.01.1971"
+    },
+    {
+      "title": "Место рождения",
+      "value": "Россия г.Новороссийск"
+    },
+    {
+      "title": "Место жительства",
+      "value": "Минск, Белапусь"
+    },
+    {
+      "title": "Телефон",
+      "value": "+37529-7537947"
+    },
+    {
+      "title": "SKYPE",
+      "value": "harper.alex"
+    },
+    {
+      "title": "Linkedin",
+      "value": "ALex Nosoff",
+      "url": "https://www.linkedin.com/in/alex-nosoff-b768b717/"
+    },
+    {
+      "title": "Google docs",
+      "value": "Резюме",
+      "url": "https://docs.google.com/document/d/16Tax6cpGqixkPSpe7DQr-qznfkmeVP2vV7ZGTo4Qirk/edit?usp=sharing"
+    }
+  ]
+}
