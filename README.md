@@ -1,6 +1,6 @@
 **Install**
 
-https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
+https://medium.com/google-cloud/google-firebase-can-host-your-website-and-single-page-application-4e9c9e0c6a95
 
 ```
 npm i
