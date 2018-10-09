@@ -7,7 +7,7 @@ import './index.scss';
 
 class Root extends React.Component {
     state = { pages: [], fetching: false };
-    
+ 
     list (lang) {
         this.setState({ fetching: true });
     
