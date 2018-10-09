@@ -3,7 +3,20 @@ import MyAffix from '../components/affix';
 import './index.scss';
 
 class AppLayout extends React.Component {
-    state = { lang: 'en' };
+    constructor(props) {
+        super(props);
+        
+        const userLang = navigator.language || navigator.userLanguage;
+        
+        const arr = userLang.split('-');
+        
+        if (/en|ru/.test(arr[0])) {
+          this.state = { lang: arr[0] };
+        }
+        else {
+          this.state = { lang: 'en' };
+        }
+    }
     
     toggleLang (lang) {
         return () => {

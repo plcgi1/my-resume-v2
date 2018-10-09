@@ -42,12 +42,12 @@ class Hobbies extends React.Component {
         this.list(this.props.lang);
     }
   
-  getTitle(item) {
-    if(item.url)
-      return <a target="_blank" rel="noopener noreferrer" href={item.url}>{item.title}</a>
-    
-    return item.title;
-  }
+    getTitle(item) {
+      if(item.url)
+        return <a target="_blank" rel="noopener noreferrer" href={item.url}>{item.title}</a>
+      
+      return item.title;
+    }
     
     render() {
         const {data, tobecontinue} = this.state;
