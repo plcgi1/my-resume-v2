@@ -21,8 +21,8 @@
     }
     .nav {
       margin: 0;
-      top: 30%;
-      font-size: 14vh;
+      top: 25%;
+      font-size: 12vh;
       z-index: 2;
       width: 50%;
       cursor: pointer;
@@ -40,7 +40,7 @@
   display: flex;
   flex-wrap: nowrap;
   position: relative;
-  margin-top: 2%;
+  margin-top: 0;
   img {
      margin: auto;
      width: 15%;

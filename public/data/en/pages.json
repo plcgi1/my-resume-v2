@@ -1,20 +1,23 @@
-[
-  {
-    "id": "expirience",
-    "title": "Expirience",
-    "path": "/expirience",
-    "data_url": "/data/expirience.json"
-  },
-  {
-    "id": "hobbies",
-    "title": "Hobbies",
-    "path": "/hobbies",
-    "data_url": "/data/hobbies.json"
-  },
-  {
-    "id": "contacts",
-    "title": "Contacts",
-    "path": "/contacts",
-    "data_url": "/data/contacts.json"
-  }
-]
+{
+  "data": [
+    {
+      "id": "expirience",
+      "title": "Expirience",
+      "path": "/expirience",
+      "data_url": "/data/expirience.json"
+    },
+    {
+      "id": "hobbies",
+      "title": "Hobbies",
+      "path": "/hobbies",
+      "data_url": "/data/hobbies.json"
+    },
+    {
+      "id": "contacts",
+      "title": "Contacts",
+      "path": "/contacts",
+      "data_url": "/data/contacts.json"
+    }
+  ],
+  "label": "If you are here with your body, not your soul, it is useless"
+}

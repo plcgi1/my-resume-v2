@@ -6,14 +6,14 @@ import { CSSTransitionGroup } from 'react-transition-group';
 import './index.scss';
 
 class Root extends React.Component {
-    state = { pages: [], fetching: false };
+    state = { pages: [], fetching: false, label: '' };
  
     list (lang) {
         this.setState({ fetching: true });
     
         pages.list(lang)
             .then((response) => {
-                this.setState({ pages: response.data, fetching: false });
+                this.setState({ pages: response.data.data, label: response.data.label, fetching: false });
             })
             .catch((err) => {
                 this.setState({ fetching: false });
@@ -29,7 +29,7 @@ class Root extends React.Component {
     }
     
     render() {
-        const { pages } = this.state;
+        const { pages, label } = this.state;
         
         //if(pages.length === 0) return <Spin/>;
         
@@ -42,7 +42,7 @@ class Root extends React.Component {
         >
           <div className="root">
               <div className="my-avatar">
-                  <img src="/images/avatars/my-ava.png" alt="Alex Nosov"/>
+                  <img src="/images/avatars/my-ava.png" title={label} alt={ label }/>
               </div>
               
               <div className="grid">
