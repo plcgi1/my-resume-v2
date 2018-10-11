@@ -9,9 +9,9 @@ class MyAffix extends Component {
   render() {
     const {lang, onToggle, pathname} = this.props;
     
-    return (<Affix>
-        <LangSelector lang={lang} onToggle={onToggle}/>
-        { pathname !== '/' ? <CloseMe/> : null }
+    return (<Affix className="my-affix">
+          <LangSelector lang={lang} onToggle={onToggle}/>
+          { pathname !== '/' ? <CloseMe/> : null }
       </Affix>
     );
   }
