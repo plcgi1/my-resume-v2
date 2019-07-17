@@ -2,8 +2,75 @@
   "technologies": "Используемые технологии",
   "data": [
     {
-      "start_date": "2018",
+      "start_date": "2018-11",
       "end_date": "...now",
+      "title": "Altoros",
+      "company": "Altoros",
+      "role": "Fullstack nodejs developer",
+      "tasks": [
+        {
+          "title": "Улучшение, доработка, рефакторинг apigee-service-broker для интеграции с cloudfoundry",
+          "url": "https://enterprise.apigee.com"
+        },
+        {
+          "title": "Разработка, поддержка платформы AQER",
+          "url": "https://platform.aqer.tech"
+        }
+      ],
+      "technologies": [
+        {
+          "image": "/images/technologies/react.png",
+          "title": "React"
+        },
+        {
+          "image": "/images/technologies/cloud-foundry.png",
+          "title": "CloudFoundry"
+        },
+        {
+          "image": "/images/technologies/apigee.png",
+          "title": "Apigee"
+        },
+        {
+          "image": "/images/technologies/linux.png",
+          "title": "Linux"
+        },
+        {
+          "image": "/images/technologies/ssl.png",
+          "title": "SSL"
+        },
+        {
+          "image": "/images/technologies/postgresql.png",
+          "title": "PostgreSQL"
+        },
+        {
+          "image": "/images/technologies/nodejs.png",
+          "title": "NodeJS"
+        },
+        {
+          "image": "/images/technologies/json.png",
+          "title": "JSON"
+        },
+        {
+          "image": "/images/technologies/rest.png",
+          "title": "REST"
+        },
+        {
+          "image": "/images/technologies/heroku.png",
+          "title": "Heroku"
+        },
+        {
+          "image": "/images/technologies/smart-contract.png",
+          "title": "Smart Contract"
+        },
+        {
+          "image": "/images/technologies/gitlab.png",
+          "title": "Gitlab"
+        }
+      ]
+    },
+    {
+      "start_date": "2018-08",
+      "end_date": "2018-10",
       "title": "Omertex",
       "company": "Omertex",
       "role": "Backend nodejs developer",

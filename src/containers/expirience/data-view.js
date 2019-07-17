@@ -17,7 +17,7 @@ class DataView extends React.Component {
         return <div>
             <ul className="list">
             {data.map((item, i) => {
-                return <li key={i}><FaCheck style={{marginRight: '7px'}}/>{getTitle(item)}</li>
+                return <li key={i}><FaCheck style={{marginRight: '12px'}}/>{getTitle(item)}</li>
             })}
             </ul>
         </div>

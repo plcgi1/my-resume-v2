@@ -6,4 +6,3 @@ https://medium.com/google-cloud/google-firebase-can-host-your-website-and-single
 npm i
 npm start
 ```
-

@@ -1,8 +1,8 @@
 import React from 'react';
 import {Link} from 'react-router';
+import { CSSTransitionGroup } from 'react-transition-group';
 import * as pages from '../../services/pages';
 import {refresh} from '../../utils';
-import { CSSTransitionGroup } from 'react-transition-group';
 import './index.scss';
 
 class Root extends React.Component {
@@ -44,7 +44,6 @@ class Root extends React.Component {
               <div className="my-avatar">
                   <img src="/images/avatars/my-ava.png" title={label} alt={ label }/>
               </div>
-              
               <div className="grid">
                   {pages.map((row, i) => (
                       <div className="grid-item nav" key={i}>

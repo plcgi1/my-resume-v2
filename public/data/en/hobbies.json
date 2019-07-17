@@ -6,7 +6,7 @@
       "title": "Wood carving",
       "tasks": [
         {
-          "url": "https://www.pinterest.com/alexandrnosoff/my-pieces-of-wood/",
+          "url": "https://www.pinterest.com/alexandrnosoff/%D0%BC%D0%BE%D1%8F-%D1%81%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BA%D0%B0/",
           "image": "https://i.pinimg.com/564x/a8/8a/90/a88a90ec6394f826c537d0f8c9c2fc0c.jpg",
           "description": "My pieces of wood"
         }
@@ -50,17 +50,17 @@
     },
     {
       "id": "alp",
-      "title": "Mountain climbing, traviling, hiking",
+      "title": "Mountain climbing, tourism",
       "tasks": [
         {
-          "url": "https://www.facebook.com/plcgi1/media_set?set=a.10211833373019843&type=3",
-          "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-0/p235x350/16195388_10211833385340151_1190459266914673144_n.jpg?_nc_cat=106&oh=21dbd8d0faced36e6a541da446f4c986&oe=5C1894FC",
-          "description": "january 2018. Malpupuner"
+          "url": "https://www.facebook.com/media/set/?set=a.10211833373019843&type=1&l=d59f059a92",
+          "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/16178360_10211833385340151_1190459266914673144_o.jpg?_nc_cat=106&_nc_oc=AQlsbFCwGaMoKhhceL0AwZ7u-gaIu-O1ttnkeX671peBQzD8m1Qjp43bclbiD3RsnYc&_nc_ht=scontent-frt3-1.xx&oh=7edea49fd8b7b03880a6e949b27e6e6c",
+          "description": "Январь 2018. Мальпупунер"
         },
         {
-          "url": "https://www.facebook.com/plcgi1/media_set?set=a.1529729413265&type=3",
-          "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/s960x960/171605_1821372064149_7169130_o.jpg?_nc_cat=110&oh=9be306026832815c5a89a61304e4cafb&oe=5C4C1231",
-          "description": "january 2010. Tsey"
+          "url": "https://www.facebook.com/media/set/?set=a.1529729413265&type=1&l=8730f6649a",
+          "image": "https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/39467_1529730373289_3024217_n.jpg?_nc_cat=109&_nc_ht=scontent-frx5-1.xx&oh=b152ca75c831e5cd8f5b6a7dcdc1ee54&oe=5CFD3687",
+          "description": "июль 2010. Цей"
         }
       ]
     },
