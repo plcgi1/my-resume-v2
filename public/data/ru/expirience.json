@@ -9,6 +9,10 @@
       "role": "Fullstack nodejs developer",
       "tasks": [
         {
+          "title": "Рефакторинг плагина авторизации через Cloud Foundry для Kibana",
+          "url": "https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry/blob/bump-6.8.1/src/kibana-cf_authentication"
+        },
+        {
           "title": "Улучшение, доработка, рефакторинг apigee-service-broker для интеграции с cloudfoundry",
           "url": "https://enterprise.apigee.com"
         },
@@ -18,6 +22,14 @@
         }
       ],
       "technologies": [
+        {
+          "image": "/images/technologies/kibana.png",
+          "title": "Kibana"
+        },
+        {
+          "image": "/images/technologies/hapi.png",
+          "title": "Hapijs"
+        },
         {
           "image": "/images/technologies/react.png",
           "title": "React"

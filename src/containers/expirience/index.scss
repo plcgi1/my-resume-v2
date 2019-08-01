@@ -17,6 +17,22 @@
         }
     }
 }
+.list li span {
+    word-wrap: break-word;
+    text-align: justify;
+    div a {
+        float: right;
+        text-align: right;
+        max-width: 400px;
+        min-width: 200px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        padding: 20px;
+        margin: 0;
+        background: white;
+    }
+}
 
 .vertical-timeline-element--left .vertical-timeline-element-date {
     left: 144% !important;
