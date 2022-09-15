@@ -6,77 +6,346 @@
       "end_date": "...now",
       "title": "Altoros",
       "company": "Altoros",
-      "role": "Fullstack nodejs developer",
+      "role": "Fullstack nodejs/golang developer",
       "tasks": [
         {
+          "title": "Swarm. Blockchain crypto exchange",
+          "url": "https://swarm.com/",
+          "country": "GERMANY",
+          "technoligies": [
+            {
+              "image": "/images/technologies/ethereum.png",
+              "title": "Ethereum"
+            },
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            },
+            {
+              "image": "/images/technologies/openapi.png",
+              "title": "Open API"
+            },
+            {
+              "image": "/images/technologies/smart-contract.png",
+              "title": "Smart Contract"
+            },
+            {
+              "image": "/images/technologies/blockchain.jpg",
+              "title": "Blockchain"
+            },
+            {
+              "image": "/images/technologies/react.png",
+              "title": "React"
+            },
+            {
+              "image": "/images/technologies/golang.png",
+              "title": "Golang"
+            },
+            {
+              "image": "/images/technologies/gitlab.png",
+              "title": "Gitlab"
+            },
+            {
+              "image": "/images/technologies/github.png",
+              "title": "Github"
+            },
+            {
+              "image": "/images/technologies/swagger.png",
+              "title": "Swagger"
+            }
+          ]
+        },
+        {
+          "title": "Filecoin. Users wallet management. Filecoin utilities",
+          "url": "https://filecoin.tools/",
+          "country": "USA",
+          "technoligies": [
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            },
+            {
+              "image": "/images/technologies/gitlab.png",
+              "title": "Gitlab"
+            },
+            {
+              "image": "/images/technologies/github.png",
+              "title": "Github"
+            }
+          ]
+        },
+        {
+          "title": "Inventiv. Alcohol customers management",
+          "url": "",
+          "country": "USA",
+          "technoligies": [
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            },
+            {
+              "image": "/images/technologies/swagger.png",
+              "title": "Swagger"
+            }
+          ]
+        },
+        {
+          "title": "RemoteProduction. Management of videocontent for reporteurs",
+          "url": "",
+          "country": "NORWAY",
+          "technoligies": [
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            },
+            {
+              "image": "/images/technologies/swagger.png",
+              "title": "Swagger"
+            },
+            {
+              "image": "/images/technologies/react.png",
+              "title": "React"
+            }
+          ]
+        },
+        {
+          "title": "Fleetmatrix. Autoservice management",
+          "url": "",
+          "country": "USA",
+          "technoligies": [
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/swagger.png",
+              "title": "Swagger"
+            }
+          ]
+        },
+        {
+          "title": "Server part Oslo-Akkuten - medical healthcare",
+          "url": "",
+          "country": "NORWAY",
+          "technoligies": [
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/postgresql.png",
+              "title": "PostgreSQL"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            },
+            {
+              "image": "/images/technologies/swagger.png",
+              "title": "Swagger"
+            }
+          ]
+        },
+        {
           "title": "Cloud foundry authentication plugin for Kibana - refactoring for update",
-          "url": "https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry/blob/bump-6.8.1/src/kibana-cf_authentication"
+          "url": "https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry/blob/bump-6.8.1/src/kibana-cf_authentication",
+          "country": "USA",
+          "technoligies": [
+            {
+              "image": "/images/technologies/kibana.png",
+              "title": "Kibana"
+            },
+            {
+              "image": "/images/technologies/hapijs.png",
+              "title": "Hapijs"
+            },
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            }
+          ]
         },
         {
           "title": "Improvement, refactoring apigee-service-broker for CloudFoundry integration",
-          "url": "https://enterprise.apigee.com"
+          "url": "https://enterprise.apigee.com",
+          "country": "USA",
+          "technoligies": [
+            {
+              "image": "/images/technologies/cloud-foundry.png",
+              "title": "CloudFoundry"
+            },
+            {
+              "image": "/images/technologies/apigee.png",
+              "title": "Apigee"
+            },
+            {
+              "image": "/images/technologies/linux.png",
+              "title": "Linux"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            }
+          ]
         },
         {
           "title": "Development and support AQER",
-          "url": "https://platform.aqer.tech"
-        }
-      ],
-      "technologies": [
-        {
-          "image": "/images/technologies/kibana.png",
-          "title": "Kibana"
-        },
-        {
-          "image": "/images/technologies/hapi.png",
-          "title": "Hapijs"
-        },
-        {
-          "image": "/images/technologies/react.png",
-          "title": "React"
-        },
-        {
-          "image": "/images/technologies/cloud-foundry.png",
-          "title": "CloudFoundry"
-        },
-        {
-          "image": "/images/technologies/apigee.png",
-          "title": "Apigee"
-        },
-        {
-          "image": "/images/technologies/linux.png",
-          "title": "Linux"
-        },
-        {
-          "image": "/images/technologies/ssl.png",
-          "title": "SSL"
-        },
-        {
-          "image": "/images/technologies/postgresql.png",
-          "title": "PostgreSQL"
-        },
-        {
-          "image": "/images/technologies/nodejs.png",
-          "title": "NodeJS"
-        },
-        {
-          "image": "/images/technologies/json.png",
-          "title": "JSON"
-        },
-        {
-          "image": "/images/technologies/rest.png",
-          "title": "REST"
-        },
-        {
-          "image": "/images/technologies/heroku.png",
-          "title": "Heroku"
-        },
-        {
-          "image": "/images/technologies/smart-contract.png",
-          "title": "Smart Contract"
-        },
-        {
-          "image": "/images/technologies/gitlab.png",
-          "title": "Gitlab"
+          "url": "https://platform.aqer.tech",
+          "country": "ITALY",
+          "technoligies": [
+            {
+              "image": "/images/technologies/gitlab.png",
+              "title": "Gitlab"
+            },
+            {
+              "image": "/images/technologies/postgresql.png",
+              "title": "PostgreSQL"
+            },
+            {
+              "image": "/images/technologies/nodejs.png",
+              "title": "NodeJS"
+            },
+            {
+              "image": "/images/technologies/ssl.png",
+              "title": "SSL"
+            },
+            {
+              "image": "/images/technologies/json.png",
+              "title": "JSON"
+            },
+            {
+              "image": "/images/technologies/rest.png",
+              "title": "REST"
+            },
+            {
+              "image": "/images/technologies/heroku.png",
+              "title": "Heroku"
+            },
+            {
+              "image": "/images/technologies/smart-contract.png",
+              "title": "Smart Contract"
+            }
+          ]
         }
       ]
     },

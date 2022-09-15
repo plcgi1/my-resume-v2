@@ -6,28 +6,69 @@
       "end_date": "...now",
       "title": "Altoros",
       "company": "Altoros",
-      "role": "Fullstack nodejs developer",
+      "role": "Fullstack developer",
       "tasks": [
         {
+          "title": "Swarm. Криптобиржа",
+          "url": "https://swarm.com/",
+          "country": "GERMANY"
+        },
+        {
+          "title": "Filecoin. Система для управления кошельками пользователей. Утилиты",
+          "url": "https://filecoin.tools/",
+          "country": "USA"
+        },
+        {
+          "title": "Inventiv. Управление заказами для компаний - торгующих алкоголем",
+          "url": "",
+          "country": "USA"
+        },
+        {
+          "title": "RemoteProduction. CMS для управления видео репортажами",
+          "url": "",
+          "country": "NORWAY"
+        },
+        {
+          "title": "Fleetmatrix. Управление услугами автосервиса",
+          "url": "",
+          "country": "USA"
+        },
+        {
+          "title": "Разработка серверной части Oslo-Akkuten - медосмотры для сотрудников организаций",
+          "url": "",
+          "country": "NORWAY"
+        },
+        {
           "title": "Рефакторинг плагина авторизации через Cloud Foundry для Kibana",
-          "url": "https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry/blob/bump-6.8.1/src/kibana-cf_authentication"
+          "url": "https://github.com/cloudfoundry-community/logsearch-for-cloudfoundry/blob/bump-6.8.1/src/kibana-cf_authentication",
+          "country": "USA"
         },
         {
           "title": "Улучшение, доработка, рефакторинг apigee-service-broker для интеграции с cloudfoundry",
-          "url": "https://enterprise.apigee.com"
+          "url": "https://enterprise.apigee.com",
+          "country": "USA"
         },
         {
           "title": "Разработка, поддержка платформы AQER",
-          "url": "https://platform.aqer.tech"
+          "url": "https://platform.aqer.tech",
+          "country": "ITALY"
         }
       ],
       "technologies": [
+        {
+          "image": "/images/technologies/golang.png",
+          "title": "Golang"
+        },
+        {
+          "image": "/images/technologies/ethereum.png",
+          "title": "Ethereum"
+        },
         {
           "image": "/images/technologies/kibana.png",
           "title": "Kibana"
         },
         {
-          "image": "/images/technologies/hapi.png",
+          "image": "/images/technologies/hapijs.png",
           "title": "Hapijs"
         },
         {

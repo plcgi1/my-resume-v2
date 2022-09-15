@@ -16,6 +16,13 @@
            width: 10%;
         }
     }
+    .proj-url {
+        display: grid;
+    }
+}
+.ant-divider-horizontal {
+    border: 1px solid #bbbbbb !important;
+    width: 100%;
 }
 .list li span {
     word-wrap: break-word;

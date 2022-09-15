@@ -4,6 +4,8 @@ import * as dataProvider from '../../services/data';
 import DataView from './data-view';
 import ImageView from './image-view';
 import { CSSTransitionGroup } from 'react-transition-group';
+import Divider from 'antd/lib/divider';
+import 'antd/lib/divider/style/index.css'
 import './index.scss';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
@@ -107,12 +109,11 @@ class Expirience extends React.Component {
                     >
                         <h3 className="vertical-timeline-element-title">
                           { this.getTitle(row) }
-                          
                         </h3>
                         <h3 className="vertical-timeline-element-subtitle">{ row.role }</h3>
                         
                         <DataView data={row.tasks} parent={row}/>
-                        <ImageView data={row.technologies} label={label}/>
+                        { row.technologies && <ImageView data={row.technologies} label={label}/> }
                     </VerticalTimelineElement>
                 ))}
             </VerticalTimeline>
